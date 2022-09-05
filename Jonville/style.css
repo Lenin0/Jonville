@@ -1,0 +1,14 @@
+body {
+    background-image : url('img/bg-site.jpg');
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+p {
+    color: #fff;
+    padding: 0 30px;
+    font-size: 17px;
+    align-content: center;
+}
